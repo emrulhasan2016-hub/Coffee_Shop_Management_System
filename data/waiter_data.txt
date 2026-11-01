@@ -1,0 +1,12 @@
+-------## Waiterinfo's Info ##--------
+Name  : jamal
+nid   : 84845151211
+address   : 5/A, Dhanmondi
+contactNumber   : 018569742365
+===============================
+-------## Waiterinfo's Info ##--------
+Name  : salam
+nid   : 5586351211
+address   : 7/F Dhanmondi
+contactNumber   : 018967745588
+===============================

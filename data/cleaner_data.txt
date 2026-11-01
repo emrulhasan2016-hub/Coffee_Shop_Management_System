@@ -1,0 +1,12 @@
+-------## Cleanerinfo's Info ##--------
+Name  : rubel
+nid   : 455558852
+address   : 157/C, Kuratoli
+contactNumber   : 014789658525
+===============================
+-------## Cleanerinfo's Info ##--------
+Name  : ali
+nid   : 8578852
+address   : 188/D, Uttora
+contactNumber   : 0155853658525
+===============================

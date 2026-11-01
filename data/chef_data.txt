@@ -1,0 +1,20 @@
+-------## Chef's Info ##--------
+Removed By Manager
+-------## Chef's Info ##--------
+Name  : javed
+nid   : 485967523585
+address   : 147/C, Khilkhet
+contactNumber   : 014785236914
+===============================
+-------## Chef's Info ##--------
+Name  : lee
+nid   : 78529985485
+address   : 147/C, Gulshan
+contactNumber   : 017852665369
+===============================
+-------## Chef's Info ##--------
+Name  : jony
+nid   : 52785236485
+address   : 177/C, Bonani
+contactNumber   : 015852665369
+===============================
